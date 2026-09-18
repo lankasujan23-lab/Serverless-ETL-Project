@@ -1,0 +1,9 @@
+# Local data and Python artifacts
+data/*.csv
+data/*.xlsx
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.env
+*.zip
